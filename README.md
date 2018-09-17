@@ -36,3 +36,6 @@ best google's apps by using this library. (Animations on CSS and ShapeShifts wil
 on server and client sides.
 
 8th: Now you're free to do everything you want. If you have enough free time - **add some interesting things**, that you consider desirable.
+
+**Extra tasks**: Addaptive design and UI, your own RESTfull API, SPA implementation, adaptation for Google's PWA, SEO optimization,
+data syncronization with any of cloud services, Import\Export feauteres.
