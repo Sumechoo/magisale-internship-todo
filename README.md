@@ -30,5 +30,9 @@ Recomended instruments:
 5th: Let's make our app beautifull now! It's dangerous to go alone, take [this](https://material-ui.com/)! Make your app looks like
 best google's apps by using this library. (Animations on CSS and ShapeShifts will be +)
 
-6th: Comming soon
+6th: Now our project is have to be published. Use "Heroku" and Node.js to **stage your app online**.
 
+7th: **Add some user specific functions** like data saving and SignUp\Register functionality. Such functionsave to be implemented 
+on server and client sides.
+
+8th: Now you're free to do everything you want. If you have enough free time - **add some interesting things**, that you consider desirable.
