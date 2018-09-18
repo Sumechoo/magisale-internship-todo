@@ -1,5 +1,5 @@
 # Magisale's internship TODO App
-## (Front End Internship)
+## (Full Stack Internship)
 ### Usual TODO application that have to be improved by you through next 2-3 weeks
 
 Recomended instruments: 
