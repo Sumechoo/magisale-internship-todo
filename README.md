@@ -48,9 +48,9 @@ something pretty [example](https://web.archive.org/web/20000510151720/http://www
 
 11th: Now our project is have to be published. Use "Heroku" and Node.js to **stage your app online**.
 
-8th: **Add some user specific functions** like data saving and SignUp\Register functionality. Such function save to be implemented on server and client sides.
+12th: **Add some user specific functions** like data saving and SignUp\Register functionality. Such function save to be implemented on server and client sides.
 
-9th: Now you're free to do everything you want. If you have enough free time - **add some interesting things**, that you consider desirable. (Server Side Rendering for react or running your backend on http2 protocol for example)
+13th: Now you're free to do everything you want. If you have enough free time - **add some interesting things**, that you consider desirable. (Server Side Rendering for react or running your backend on http2 protocol for example)
 
 **Extra tasks**: Addaptive design and UI, your own RESTfull API, SPA implementation, PWA implementation,
 data syncronization with any of cloud services, Import\Export feauteres.
