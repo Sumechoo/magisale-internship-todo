@@ -27,15 +27,17 @@ Recomended instruments:
 
 4th: Is it enough, only creating and deleting? No! We need to edit our mistakes here so **add a editing functionality** to this app.
 
-5th: Let's make our app beautifull now! It's dangerous to go alone, take [this](https://material-ui.com/)! Make your app looks like
+5th: Now it is time to **add some state management**. Use Redux or MobX (Redux preffered) in your app.
+
+6th: Let's make our app beautifull now! It's dangerous to go alone, take [this](https://material-ui.com/)! Make your app looks like
 best google's apps by using this library. (Animations on CSS and ShapeShifts will be +)
 
-6th: Now our project is have to be published. Use "Heroku" and Node.js to **stage your app online**.
+7th: Now our project is have to be published. Use "Heroku" and Node.js to **stage your app online**.
 
-7th: **Add some user specific functions** like data saving and SignUp\Register functionality. Such functionsave to be implemented 
+8th: **Add some user specific functions** like data saving and SignUp\Register functionality. Such functionsave to be implemented 
 on server and client sides.
 
-8th: Now you're free to do everything you want. If you have enough free time - **add some interesting things**, that you consider desirable.
+9th: Now you're free to do everything you want. If you have enough free time - **add some interesting things**, that you consider desirable.
 
 **Extra tasks**: Addaptive design and UI, your own RESTfull API, SPA implementation, adaptation for Google's PWA, SEO optimization,
 data syncronization with any of cloud services, Import\Export feauteres.
