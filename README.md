@@ -7,7 +7,7 @@ Recomended instruments:
  * Visual Studio Code
  * Git Bash
  * Chrome Dev Tools
- * Spotify
+ * __Spotify__
  
  Recomended sources:
  * **Google**
@@ -29,8 +29,8 @@ Recomended instruments:
 
 5th: Now it is time to **add some state management**. Use Redux or MobX (Redux preffered) in your app.
 
-6th: Let's make our app beautifull now! It's dangerous to go alone, take [this](https://material-ui.com/)! Make your app looks like
-best google's apps by using this library. (Animations on CSS and ShapeShifts will be +)
+6th: Let's make our app beautifull now! It's dangerous to go alone, take [this](https://material-ui.com/) or take [this](https://github.com/styled-components/styled-components)! Make your app looks like
+something pretty [example](https://web.archive.org/web/20000510151720/http://www.yandex.ru:80/). (Animations on CSS and ShapeShifts will be +)
 
 7th: Now our project is have to be published. Use "Heroku" and Node.js to **stage your app online**.
 
