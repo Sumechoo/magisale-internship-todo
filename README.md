@@ -17,6 +17,8 @@ Recomended instruments:
  * Habr
  * DevTube
  
+ ### Frontend section
+ 
 1st Step task: Code is simple as it possible, so you should be able to understand its basics concepts 2-3 days or even faster if you're already familiar with JS and HTML.
 
 2nd: Let's mix a things a little bit! Add a new field called "Title" to app's sources at Todo creator inputs and Todo item view.
@@ -32,12 +34,23 @@ Recomended instruments:
 6th: Let's make our app beautifull now! It's dangerous to go alone, take [this](https://material-ui.com/) or take [this](https://github.com/styled-components/styled-components)! Make your app looks like
 something pretty [example](https://web.archive.org/web/20000510151720/http://www.yandex.ru:80/). (Animations on CSS and ShapeShifts will be +)
 
-7th: Now our project is have to be published. Use "Heroku" and Node.js to **stage your app online**.
+### Backend section
 
-8th: **Add some user specific functions** like data saving and SignUp\Register functionality. Such functionsave to be implemented 
-on server and client sides.
+7th: Create nodejs server. Use express and start the backend.
 
-9th: Now you're free to do everything you want. If you have enough free time - **add some interesting things**, that you consider desirable.
+8th: Create endpoints for existing functionality that frontend requires.
 
-**Extra tasks**: Addaptive design and UI, your own RESTfull API, SPA implementation, adaptation for Google's PWA, SEO optimization,
+9th: Use some SQL database solution for storing records - **PostgreSQL** is preferable.
+
+10th: For backend use Test Driven Development (TDD). Your code must be covered by tests at least 89%.
+
+### Both
+
+11th: Now our project is have to be published. Use "Heroku" and Node.js to **stage your app online**.
+
+8th: **Add some user specific functions** like data saving and SignUp\Register functionality. Such function save to be implemented on server and client sides.
+
+9th: Now you're free to do everything you want. If you have enough free time - **add some interesting things**, that you consider desirable. (Server Side Rendering for react or running your backend on http2 protocol for example)
+
+**Extra tasks**: Addaptive design and UI, your own RESTfull API, SPA implementation, PWA implementation,
 data syncronization with any of cloud services, Import\Export feauteres.
