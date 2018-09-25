@@ -1,5 +1,13 @@
 # Magisale's internship TODO App
 ## (Full Stack Internship)
+
+### How to start
+
+1. ``` $ git clone https://github.com/SadMonster/magisale-internship-todo.git ```
+2. ``` $ cd magisale-internship-todo ```
+3. ``` $ npm i ```
+4. ``` $ npm start ```
+
 ### Usual TODO application that have to be improved by you through next 2-3 weeks
 
 Recomended instruments: 
