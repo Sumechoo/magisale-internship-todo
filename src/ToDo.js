@@ -45,12 +45,6 @@ class ToDo extends Component {
       });
     };
 
-    deleteItem = indexToDelete => {
-      this.setState(({ list }) => ({
-        list: list.filter((toDo, index) => index !== indexToDelete)
-      }));
-    };
-
     render() {
         return (
             <div className="ToDo">
@@ -62,10 +56,9 @@ class ToDo extends Component {
 
                         {this.state.list.map((item, key) => {
                                 return <ToDoItem
-                                                key={key}
-                                                item={item.todo}
-                                                deleteItem={this.deleteItem.bind(this, key)}
-                                                />
+                                            key={key}
+                                            item={item.todo}
+                                        />
                           }
                         )}
                     </div>
